@@ -1,0 +1,40 @@
+span{
+    background-color: palevioletred;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 50px;
+}
+h1{
+    background-color: paleturquoise;
+    border: 1px solid black;
+    width:300px;
+    padding: 50px;
+    margin: 50px;
+    display: none;
+}
+#sen {
+    height: 200px;
+    width: 200px;
+    
+    background-color: olivedrab;
+    border: 1px solid black; 
+    /* box-sizing: border-box; */
+    display: inline-block;
+    margin: 0px;
+}
+#ren {
+    /* border: none; */
+    /* border: 1px solid black;  */
+    text-align: center;
+    
+    margin: 0 auto; 
+}
+
+
+body {
+    margin: 50px 0 0 0;
+}
+
+p {
+    margin: 50px 0 0 0;
+}
