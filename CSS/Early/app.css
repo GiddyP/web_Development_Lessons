@@ -1,0 +1,58 @@
+body {
+    color: purple;
+}
+
+section {
+    color:brown;
+}
+
+form{
+    color:yellowgreen;
+}
+button, input{
+    color:inherit;
+}
+
+
+/* h1 { */
+    /* color: blue; */
+    /* text-align: center;
+    font-weight: normal;
+    text-decoration: rgb(133, 133, 64) underline wavy;
+    letter-spacing: 5px;
+    font-size: 80px; */
+    /* font-family: Segoe UI, Futura, Arial, sans-serif; */
+    /* font-family: Avant Garde, Courier New;
+} */
+/* h2 {
+    font-weight: normal;
+}
+a {
+    text-decoration: none;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.15;
+} */
+
+
+/* h2 {
+    color: #40aa26;
+    background-color: #6d5a25f3;
+}
+
+button {
+    color: magenta;
+    background-color: cyan;
+}
+
+p {
+    color: olive;
+    background-color: rosybrown;
+    
+}
+
+body{
+    background-color: #FFFF91;
+} */

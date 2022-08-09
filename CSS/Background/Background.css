@@ -1,0 +1,14 @@
+section {
+    width: 80%;
+    height: 800px;
+    /* background-image: url('https://media.istockphoto.com/photos/unsaturated-photo-of-the-top-of-modern-skyscraper-with-glass-facade-picture-id1206593895');     background-size: cover;
+    background-position: center; */
+    background: center/50% no-repeat url('https://media.istockphoto.com/photos/unsaturated-photo-of-the-top-of-modern-skyscraper-with-glass-facade-picture-id1206593895'), rgb(93, 129, 40);
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+
+}
